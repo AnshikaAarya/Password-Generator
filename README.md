@@ -13,10 +13,6 @@ Requirements
 Python 3.x
 Usage
 
-Clone the repository:
-git clone https://github.com/your-username/random-password-generator.git
-cd random-password-generator
-
 Run the script:
 python3 password_generator.py
 
